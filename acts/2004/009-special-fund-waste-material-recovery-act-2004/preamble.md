@@ -1,0 +1,15 @@
+REPUBLIC OF KIRIBATI
+(No. 9 of 2004)
+I assent,
+Anote Tong
+Beretitenti
+03/02/2004
+
+AN ACT TO LEVY DEPOSITS IN RESPECT OF THE RECOVERY OF WASTE
+MATERIALS IN KIRIBATI; AND FOR CONNECTED PURPOSES
+Commencement:
+2004
+
+MADE by the Maneaba ni Maungatabu and assented to by the Beretitenti.
+PART I
+PRELIMINARY
