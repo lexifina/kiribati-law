@@ -1,0 +1,18 @@
+THE REPUBLIC OF KIRIBATI
+NATIVE LANDS (AMENDMENT)
+ACT 1983
+(No. 14 of 1983)
+I assent
+Beretitenti,
+1983
+AN ACT TO REPEAL THE
+PROVISO TO SECTION 5
+OF THE NATIVE LANDS
+(AMENDMENT) ORDINANCE 1977;
+AND FOR CONNECTED PURPOSES.
+Commencement: 12th
+August 1983
+MADE
+by the Maneaba ni Maungatabu and assented to by the Beretitenti.
+Short
+title
