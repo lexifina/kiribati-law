@@ -1,0 +1,14 @@
+Telecom Kiribati Ltd (Special Provisions) Act 1988
+THE REPUBLIC OF KIRIBATI
+(No. 5 of 1988)
+I assent,
+I. Tabai
+Beretitenti.
+2/6/88
+AN ACT TO PROVIDE FOR THE TRANSFER OF THE ASSETS AND
+LIABILITIES OF TELECOMMUNICATIONS DIVISION OF
+MINISTRY OF TRANSPORT AND COMMUNICATIONS TO
+TELECOM Kiribati LTD AND FOR CONNECTED PURPOSES
+Commencement: 02/06/1988
+
+MADE by the Maneaba ni Maungatabu and assented to by the Beretitenti.
