@@ -1,6 +1,7 @@
 # Schedule 2. Territory of Kiribati
 Section 132
-The land territory of Kiribati comprises the following islands together with all small islands, islets, rocks and reefs depending on them—
+The land territory of Kiribati comprises the following islands together with all small islands,
+islets, rocks and reefs depending on them—
 Abaiang
 Abemama
 Aranuka
