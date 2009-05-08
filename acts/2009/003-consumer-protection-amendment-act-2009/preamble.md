@@ -1,0 +1,9 @@
+Consumer Protection (Amendment) Act 2009
+REPUBLIC OF KIRIBATI
+(No. 3 of 2009)
+I assent,
+Beretitenti
+Assented: 8th May 2009
+AN ACT TO AMEND THE CONSUMER PROTECTION ACT 2001 TO
+MODIFY THE PROCEDURE FOR APPOINTMENT OF INSPECTORS
+Commencement:
