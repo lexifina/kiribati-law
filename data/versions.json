@@ -1,0 +1,19 @@
+{
+ "country": "KI",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Kiribati (as made, 1979)",
+   "url": "https://www.legislation.gov.uk/uksi/1979/719/made",
+   "versions": [
+    {
+     "from": "1979-07-12",
+     "units": 151,
+     "source_url": "https://www.legislation.gov.uk/uksi/1979/719/made/data.xml",
+     "sha256": "84076b0fb2ee460edeffd5bdcbf22d5f73f9b695381d4b0fd20b41d829407ac1"
+    }
+   ]
+  }
+ ]
+}
