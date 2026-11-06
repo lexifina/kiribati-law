@@ -1,5 +1,7 @@
 # Kiribati: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Kiribati's national law, which global-law reads at `kiribati/national/acts/`.
+
 The Constitution of Kiribati as a git repository: one file per section, and the instrument that made it as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ki/`.
 
 **Language:** English, the language of the official text.
