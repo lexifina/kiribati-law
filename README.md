@@ -24,7 +24,8 @@ The text is in English, as legislation.gov.uk publishes the Order as made.
 
 - **[Ask Claude about Kiribati law](https://global-law.lexifina.com/v1/try_claude?country=kiribati)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kiribati)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=forced+labour&jurisdictions=kiribati)**: a search of Kiribati law for "forced labour", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Kiribati law on our site](https://lexifina.com/law?country=kiribati&q=forced+labour)**: a search for "forced labour", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=forced+labour&jurisdiction=kiribati)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
