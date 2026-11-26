@@ -1,6 +1,6 @@
-# Constitution of Kiribati (as made, 1979)
+# Constitution of Kiribati
 
-Constitution · 1 versions, from 1979-07-12 (latest in force: 1979-07-12) · <https://www.legislation.gov.uk/uksi/1979/719/made>
+Constitution · 2 versions, from 1979-07-12 (latest in force: 1995-02-13, as amended by the Constitution (Amendment) Act 1995, from WIPO Lex) · <https://www.legislation.gov.uk/uksi/1979/719/made>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
