@@ -1,0 +1,14 @@
+{
+  "corpus": "ki/national/acts",
+  "name": "Kiribati: the Constitution, Acts and subsidiary legislation (official copies from the Office of Te Beretitenti; secondary copies from FAOLEX and WIPO Lex; the 1979 Constitution from legislation.gov.uk)",
+  "label": "Kiribati",
+  "language": "en",
+  "folders": [
+    "acts",
+    "constitution",
+    "subsidiary"
+  ],
+  "dates": {
+    "commit": "noon Pacific/Tarawa on the in-force day (or the day of assent where the Act leaves its commencement blank)"
+  }
+}

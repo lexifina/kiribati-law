@@ -1,5 +1,31 @@
-The text in this repository is the Constitution of Kiribati as made, taken from The Kiribati Independence Order 1979 (SI 1979/719)
-on legislation.gov.uk (https://www.legislation.gov.uk/uksi/1979/719/made).
-Contains public sector information licensed under the Open Government Licence v3.0
+The law texts in this repository come from four sources. Each commit names its source in its `Source:` trailer and,
+for the texts added from 2026-11-26, in its `Source-status:` trailer.
+
+legislation.gov.uk (The National Archives): the Constitution of Kiribati as made, taken from The Kiribati Independence
+Order 1979 (SI 1979/719) (https://www.legislation.gov.uk/uksi/1979/719/made). Contains public sector information
+licensed under the Open Government Licence v3.0
 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
-Lexifina's tooling and documentation in this repository are released under the MIT licence.
+
+Office of Te Beretitenti (https://www.president.gov.ki/resources/gazettes-instruments.html): the texts marked
+"official (Office of Te Beretitenti, ...)" are the Government of Kiribati's own published copies. They are official
+texts of the law; no terms of use are published with them.
+
+FAOLEX, the FAO legal database (https://faolex.fao.org/): the texts marked "secondary copy (FAOLEX, ...)" are
+FAOLEX's copies. FAO terms (https://www.fao.org/contact-us/terms/): material may be copied, downloaded and printed
+for private study, research and teaching purposes, or for use in non-commercial products or services, provided
+that FAO is acknowledged as the source. Source credit: FAOLEX, Food and Agriculture Organization of the United
+Nations.
+
+WIPO Lex (https://www.wipo.int/wipolex/): the texts marked "secondary copy (WIPO Lex, ...)" are WIPO Lex's copies
+of national laws, provided free of charge by WIPO. WIPO's terms (https://www.wipo.int/tools/en/disclaim.html): its
+online content is issued under CC BY 4.0 except where more restrictive terms are stated. Source credit: WIPO Lex,
+World Intellectual Property Organization.
+
+Constitute (https://www.constituteproject.org/, CC BY-NC 3.0) was read as a cross-check only; no text is taken from
+it. PacLII is not used.
+
+The laws themselves are Kiribati's. This repository is public, free and non-commercial, and keeps each text as its
+source gives it.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

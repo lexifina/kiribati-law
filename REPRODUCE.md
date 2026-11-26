@@ -7,8 +7,11 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | legislation.gov.uk: The Kiribati Independence Order 1979 (SI 1979/719), as made | <https://www.legislation.gov.uk/uksi/1979/719/made> | 2026-10-29 | Open Government Licence v3.0 |
+| Office of Te Beretitenti: Gazettes and instruments (official) | <https://www.president.gov.ki/resources/gazettes-instruments.html> | 2026-11-26 | Official texts; no terms published |
+| FAOLEX: 179 Kiribati records found in the public FAOLEX sitemaps, and their PDFs (secondary copies) | <https://faolex.fao.org/> | 2026-11-26 | FAO terms: non-commercial use with credit |
+| WIPO Lex: the 36 Kiribati records linked from the member profile, and their PDFs (secondary copies) | <https://www.wipo.int/wipolex/en/members/profile/KI> | 2026-11-26 | CC BY 4.0 |
 
-Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+Every word of law in this repository comes from these sources. The versions added on 2026-11-26 are read from each PDF's own text layer (no OCR by Lexifina; a layer the publisher made over page scans is tagged `Text-source: publisher OCR`), split one file per section, and committed one version per commit by `scripts/kiribati-law/secondary/` in the Lexifina tools (`fetch.py` downloads at about one request a second per host; `build.py` dates and places each text and lists the rest in `data/held.json`; `commit.py` writes the commits). They are not yet in the corpus file below, which covers the 1979 version only. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
 ## What is in it
 
@@ -52,6 +55,9 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- 2026-11-26: Revised Edition texts (1977, 1979, 1980, 1992, 1998) are held: no day is known for the date to which each edition is consolidated or on which it came into operation.
+- 2026-11-26: an Act whose commencement line is blank is dated by its day of assent (`Date-basis: assent`), unless it commences on a day appointed by notice, in which case it is held. The Constitution as amended to 1995 is dated by the assent of the Constitution (Amendment) Act 1995, 13 February 1995.
+- 2026-11-26: PacLII prints found among the secondary copies are not used. The Environment (General) Regulations 2025 on the official site are held: a page of the repeal provisions is an image without a text layer.
 - Only the Constitution as made (Schedule to the Order, in force 12 July 1979) is built; it is the only official text found online. The Kiribati government site and PacLII were not used.
 - Schedule 1 (oaths and affirmations) is published only as images, so it is left out (no OCR). Part headings inside chapters are left out; chapter titles are kept.
 - Order date 26 June 1979 and publication date 4 July 1979 are from the legislation.gov.uk metadata; the Constitution took effect at independence on 12 July 1979.
